@@ -1,6 +1,6 @@
 # Simple Traffic
 Simple Weather is a single page web application for practice with AJAX/HttpGet requests to servers.
-This site will make AJAX requests to the WSDOT page to estimate the traffic time for a user to get to Epicodus.
+This site will make AJAX requests to the WSDOT page and dynamically displays information.
 
 ## Set-up Installation
 
@@ -8,6 +8,9 @@ First, clone from `https://github.com/neumanna94/SimpleTraffic`
 
 ```sh
 $ npm install
+```
+```sh
+$ Get An API Key FORhttp://wsdot.com/traffic/api/TravelTimes/TravelTimesREST.svc/Help
 ```
 then,
 ```sh
