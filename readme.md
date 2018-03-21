@@ -10,7 +10,7 @@ First, clone from `https://github.com/neumanna94/SimpleTraffic`
 $ npm install
 ```
 ```sh
-$ Get An API Key FORhttp://wsdot.com/traffic/api/TravelTimes/TravelTimesREST.svc/Help
+$ Get An API Key FOR http://wsdot.com/traffic/api/TravelTimes/TravelTimesREST.svc/Help
 ```
 then,
 ```sh
